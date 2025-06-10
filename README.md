@@ -42,7 +42,7 @@ Meine Profilbildungen:
 ---
 
 ## ✨ Projekte & Open Source
-- [**Für Starke Kinder - Begleiter auf vier Pfoten**](LINK) - Projekt in der stationären Kinder- und Jugendhilfe, Kinder werden emotional mithilfe von Tierkontakten unterstützt.
+- **Für Starke Kinder - Begleiter auf vier Pfoten** - Projekt in der stationären Kinder- und Jugendhilfe, Kinder werden emotional mithilfe von Tierkontakten unterstützt.
 - 🛠️ Weitere Projekte findest du in meinen Repositories!
 
 ---
@@ -55,7 +55,7 @@ Meine Profilbildungen:
 
 ## 📫 Kontakt
 - ✉️ E-Mail: 
-- 💬 LinkedIn: https://www.linkedin.com/in/jo-ann-b-3573682a3/
+- 💬 LinkedIn(https://www.linkedin.com/in/jo-ann-b-3573682a3/)
 - 🌐 Seite:
 
 ---
