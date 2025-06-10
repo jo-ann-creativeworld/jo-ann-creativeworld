@@ -32,11 +32,11 @@ Meine Profilbildungen:
 ## 🎨 Skills & Tools
 - 🖥️ **Canva**  
   - Erstellung von (Unterrichts)-materialien, Plakaten & Arbeitsblättern  
-- 🖌️ **Sketchbook**  
+- 🖌️ **Analog/Digitales**  
   - Handgezeichnete, digitale Illustrationen & Visualisierungen  
 - 📝 **Microsoft Office & Google Workspace**  
   - Dokumentation, Präsentationen, Tabellen  
-- 📱 **Social Media Tools**  
+- 📱 **Multi Media Tools**  
   - Planung und Gestaltung von pädagogischen Inhalten  
 
 ---
@@ -55,8 +55,8 @@ Meine Profilbildungen:
 
 ## 📫 Kontakt
 - ✉️ E-Mail: 
-- 💬 LinkedIn(https://www.linkedin.com/in/jo-ann-b-3573682a3/)
-- 🌐 Seite:
+- 💬 [LinkedIn](https://www.linkedin.com/in/jo-ann-b-3573682a3/)
+- 🌐 [Seite](https://jo-ann-creativeworld.github.io/)
 
 ---
 
